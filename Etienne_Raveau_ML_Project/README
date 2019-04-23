@@ -1,0 +1,15 @@
+Guide for the project:
+
+You will find in the folder everything that has been used for the project: Python codes, figures and tables created and a report explaining the methodology and discussing the findings.
+
+If you want, the python codes could be runned to print results with the best algorithms and parameters chosen.
+Moreover, some indicators could be printed such as the time completion and the result of the scoring method, one just needs to uncomment the related lines.
+There are two files : one for the single label classification and the other for the multi label classification.
+Every explanation needed to understand the code should by into the python files, as steps have been described one by one.
+Further explanation may be provided by reading the project report.
+Finally, I left some testing code in the file related to multi label classification.
+If you like, you can take a look at it to see how I tinkered with algorithms to measure and compare their performances.
+
+Hope you will like it ! 
+
+Etienne 
